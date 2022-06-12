@@ -37,6 +37,9 @@ GET : http://localhost:8088/api/power-plants?columnName=name&order=DESC&pageNumb
     "plantLocationId": 1
   }
 ]
+
+
+
 Location specific actual with percentage:GET http://localhost:8088/api/power-plants/count-percentage?plantLocationId.in=1
 {
   "actualValue": "270",
