@@ -1,5 +1,7 @@
 # power_plant
 
+Swagger : http://localhost:8088/swagger-ui.html
+
 ## Development
 
 To start your application in the dev profile, run:
