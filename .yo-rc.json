@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jamal.power.plant"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "power_plant",
+    "packageName": "com.jamal.power.plant",
+    "packageFolder": "com/jamal/power/plant",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTEyMTUxMTdjZGU1YTBkZTlmNTY3ZDM4ZGM4MjQwMDg4ZWVjYzRkNTBhNGEyYjhmNTFjNGMwZDAxZjI5MWU3YzhiZDg1NTEzYzY3OWZhZjUzOTk4MjJiNGJjMjAzZGI1MjlmZmUxYWE5YjUzMjBmODE4MzkzMzE5MGFmOWQ5ZDY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1654978271676,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.9.xsd">
+    <!--
+        Added the constraints for entity PowerPlant.
+    -->
+    <changeSet id="20220611201518-2" author="jhipster">
+        
+        <addForeignKeyConstraint baseColumnNames="plant_location_id"
+                                 baseTableName="power_plant"
+                                 constraintName="fk_power_plant_plant_location_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="plant_location"/>
+
+    </changeSet>
+</databaseChangeLog>
