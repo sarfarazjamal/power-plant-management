@@ -2,6 +2,47 @@
 
 Swagger : http://localhost:8088/swagger-ui.html
 
+Power plant info:
+GET : http://localhost:8088/api/power-plants?columnName=name&order=DESC&pageNumber=0&pageSize=10&plantLocationId.in=1%2C2
+
+[
+  {
+    "id": 3,
+    "name": "Tasty",
+    "plantOutput": "50",
+    "outputUnit": "MWT",
+    "type": "INPROGRESS",
+    "plantManpowerCapacity": "Table",
+    "workingHour": "Facilitator",
+    "plantLocationId": 1
+  },
+  {
+    "id": 1,
+    "name": "Generic Steel Pizza Realigned",
+    "plantOutput": "120",
+    "outputUnit": "MWT",
+    "type": "INPROGRESS",
+    "plantManpowerCapacity": "Credit Card Account Pants",
+    "workingHour": "Rhode Island Avon Bacon",
+    "plantLocationId": 1
+  },
+  {
+    "id": 2,
+    "name": "Argentina application Cambridgeshire",
+    "plantOutput": "100",
+    "outputUnit": "MWT",
+    "type": "INPROGRESS",
+    "plantManpowerCapacity": "static payment",
+    "workingHour": "neural-net Factors Distributed",
+    "plantLocationId": 1
+  }
+]
+Location specific actual with percentage:GET http://localhost:8088/api/power-plants/count-percentage?plantLocationId.in=1
+{
+  "actualValue": "270",
+  "plantOutputPercentage": "28"
+}
+
 ## Development
 
 To start your application in the dev profile, run:
