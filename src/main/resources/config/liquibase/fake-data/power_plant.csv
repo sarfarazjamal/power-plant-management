@@ -1,11 +1,11 @@
 id;name;plant_output;output_unit;type;plant_manpower_capacity;working_hour
-1;Generic Steel Pizza Realigned;Assistant array;Afghani;INPROGRESS;Credit Card Account Pants;Rhode Island Avon Bacon
-2;Argentina application Cambridgeshire;transmitting;olive Handcrafted Metal Mouse multimedia;INPROGRESS;static payment;neural-net Factors Distributed
-3;Tasty;Clothing Digitized;Brunei Dollar National Money Market Account;INPROGRESS;Table;Facilitator
-4;Garden;tan scale;methodologies synergy Sports;INPROGRESS;infrastructures blue;compressing Buckinghamshire
-5;Palau program;Data Fantastic;black;INPROGRESS;connecting;Oman
-6;Concrete;firewall;RSS;FUNCTIONAL;Auto Loan Account;XML Stand-alone transmitting
-7;Reduced Checking Account Global;AGP deposit;invoice Avon;FUNCTIONAL;synthesize Berkshire;magnetic transmitting
-8;calculate backing up channels;feed Implementation;Ghana Solomon Islands Dollar online;INPROGRESS;deploy;back up backing up
-9;applications;Estate Naira;Grass-roots Wooden;FUNCTIONAL;TCP bypass;Computers Refined Metal
-10;Canada;Automotive Course;Soft maximize;INPROGRESS;Devolved Liaison;Berkshire
+1;Plant A;10;MWT;FUNCTIONAL;2000;8 to 10 PM
+2;PLANT B;25;MWT;FUNCTIONAL;5000;8 to 9 PM
+3;PLANT C;45;MWT;FUNCTIONAL;6000;8 to 10 PM
+4;PLANT D;55;MWT;INPROGRESS;7000;8 to 6 PM
+5;PLANT E;110;MWT;INPROGRESS;8000;8 to 5 PM
+6;PLANT F;160;MWT;FUNCTIONAL;800;8 to 10 PM
+7;PLANT G ;180;MWT;FUNCTIONAL;1200;8 to 10 PM
+8;PLANT H;190;MWT;FUNCTIONAL;1500;8 to 10 PM
+9;PLANT I;240;MWT;FUNCTIONAL;1700;8 to 10 PM
+10;PLANT J;360;MWT;FUNCTIONAL;1900;8 to 10 PM
